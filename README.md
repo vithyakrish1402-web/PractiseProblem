@@ -1,2 +1,0 @@
-# PractiseProblem
-Practise Problem Solutions
